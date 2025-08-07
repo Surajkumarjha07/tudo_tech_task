@@ -5,7 +5,7 @@
 
 Steps to run the application ->  
 
-For frontend ->    
+To run frontend ->    
 ➡️ cd frontend  
 ➡️ RUN COMMAND - npm run dev  
 ➡️ Go to http://localhost:3000 in your browser  
@@ -13,6 +13,6 @@ For frontend ->
 ➡️ You will redirected to the chat page  
 ➡️ Start Chatting
 
-For backend ->  
+To run backend ->  
 ➡️ cd backend  
 ➡️ RUN COMMAND - npm run dev
